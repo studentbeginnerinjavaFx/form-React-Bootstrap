@@ -1,0 +1,16 @@
+.Login-form{
+
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+#header{
+text-align: center;
+  color :rgb(7, 87, 161);
+  font-family: 'Times New Roman', Times, serif;
+}
